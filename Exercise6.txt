@@ -1,3 +1,4 @@
+		GIT CONFIG -L
 /altschool-cloud-excercises$ git config -l
 user.email=samuelpersisoladejo@gmail.com
 user.name=Samuel Persis
@@ -8,3 +9,24 @@ core.bare=false
 core.logallrefupdates=true
 remote.origin.url=https://github.com/SPersis/Altschool-cloud-exercise.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+
+		GIT REMOTE -V
+origin	https://github.com/SPersis/Altschool-cloud-exercise.git (fetch)
+origin	https://github.com/SPersis/Altschool-cloud-exercise.git (push)
+
+		GIT LOG
+commit 038a49dbefbe0b39fff5d92fc0dfd1a3175e9047 (HEAD -> master, origin/master)
+Author: Samuel Persis <samuelpersisoladejo@gmail.com>
+Date:   Wed Sep 14 14:43:58 2022 +0000
+
+    Altschool Cloud Excercise
+
+commit 76bd585dd0fcef6b26cee76dc14ccc05b75710de
+Author: Samuel Persis <samuelpersisoladejo@gmail.com>
+Date:   Wed Sep 14 14:39:27 2022 +0000
+
+    Altschool Cloud Exercise
+
+

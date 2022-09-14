@@ -1,0 +1,10 @@
+/altschool-cloud-excercises$ git config -l
+user.email=samuelpersisoladejo@gmail.com
+user.name=Samuel Persis
+credential.helper=cache
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/SPersis/Altschool-cloud-exercise.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*

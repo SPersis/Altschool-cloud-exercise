@@ -7,6 +7,6 @@
 ![task](miniproject.png)
 
 ### Submission
- * My created Domain = http://www.spersislaravel.me/
+ * My created Domain = http://www.spersislaravel.me
 * My cloud instance = AWS cloud services
 * My cloud public ip = 3.92.208.81
